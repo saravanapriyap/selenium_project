@@ -1,8 +1,0 @@
-[core]
-	symlinks = false
-	repositoryformatversion = 0
-	filemode = false
-	logallrefupdates = true
-[remote "origin"]
-	url = https://github.com/saravanapriyap/selenium_project.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
